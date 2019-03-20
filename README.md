@@ -1,2 +1,5 @@
-# Value_of_Control
-Scripts for Wang_and_Delgado_2019_Cerebral_Cortex
+# Corticostriatal circuits encode the subjective value of perceived control
+## DOI here
+
+This repository contains both task and analysis scripts for the Wang and Delgado 2019 Cerebral Cortex paper. 
+The scripts are executable in Matlab. 
