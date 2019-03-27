@@ -10,6 +10,4 @@ Scripts should be executed from data directory.
     
     Scripts search for data from * _TaskBRand_CCSS_1_1.mat files in the current working directory. 
 
-    Specify list of subject IDs to be included by editing the subj_list  variable at the top of each script.
-    
-    get_ccss_choiceRT() #Within participant choice average, output to allsubj_CCSS_avg_choiceRT.xls
+    Specify list of subject IDs to be included by editing the subj_list variable at the top of each script.
