@@ -1,4 +1,4 @@
-# Corticostriatal circuits encode the subjective value of perceived control
+## Corticostriatal circuits encode the subjective value of perceived control
 
 This repository contains both task and analysis scripts for Wang and Delgado 2019 Cerebral Cortex paper (https://doi.org/10.1093/cercor/bhz045). 
 
