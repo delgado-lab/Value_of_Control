@@ -16,6 +16,5 @@ All scripts tested in Matlab 2015a using Apple Macbook Pro 13-inch Retina Displa
 Usage: task_wrapper_fmri_1(subjectnum) #specify subject number as integer
 
 example: task_wrapper_fmri_1(101)
-   task_wrapper_fmri_1 and task_wrapper_fmri_2 represents counterbalanced versions. 
-        
 
+task_wrapper_fmri_1 and task_wrapper_fmri_2 represents counterbalanced versions. 
