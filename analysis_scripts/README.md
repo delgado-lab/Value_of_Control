@@ -1,4 +1,4 @@
-## Analysis scripts for Value of Control task. 
+### Analysis scripts for Value of Control task. 
 ### Wang and Delgado 2019 Cerebral Cortex (https://doi.org/10.1093/cercor/bhz045)
 ### In conjunction with the task scripts, these scripts are used to generate and organize participants' behavioral data into: 
   1. Within-participant average 
