@@ -1,5 +1,5 @@
 ### Task scripts for the Value of Control task
-###  Wang and Delgado 2019 Cerebral Cortex (https://doi.org/10.1093/cercor/bhz045)
+    Wang and Delgado 2019 Cerebral Cortex (https://doi.org/10.1093/cercor/bhz045)
 #### Includes two sets of the following (left/right counterbalanced): 
  1. Task wrapper script --> to execute all files in the correct sequence. 
  2. Task A scripts --> 20-trial walkthrough/practice for the task. 
