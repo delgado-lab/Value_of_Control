@@ -14,6 +14,7 @@ All scripts tested in Matlab 2015a using Apple Macbook Pro 13-inch Retina Displa
 #### Usage
 
 Usage: task_wrapper_fmri_1(subjectnum) #specify subject number as integer
-       example: task_wrapper_fmri_1(101)
+
+example: task_wrapper_fmri_1(101)
        
 
