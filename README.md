@@ -3,5 +3,5 @@
 
 This repository contains both task and analysis scripts for Wang and Delgado 2019 Cerebral Cortex paper. 
 
-The scripts are executable in Matlab. 
+### Requirements
 All scripts tested in Matlab 2015a using Apple Macbook Pro 13-inch Retina Display.
