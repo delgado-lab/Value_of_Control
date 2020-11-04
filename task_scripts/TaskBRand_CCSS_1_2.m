@@ -21,7 +21,7 @@ ntrials = 22;
 
 ITI_ISI_list(:,1) = [repmat(1,1,11) repmat(2,1,5) repmat(3,1,3) repmat(4,1,2) repmat(6,1,1)]';  % ITI
 ITI_ISI_list(:,2) = [repmat(1,1,11) repmat(2,1,5) repmat(3,1,3) repmat(4,1,2) repmat(6,1,1)]';  % ISI
-ITI__ISI_list = Shuffle(ITI_ISI_list,2); 
+ITI_ISI_list = Shuffle(ITI_ISI_list,2); 
 
 trial_order(:,1) = [repmat(1,1,11) repmat(2,1,11)]';   %1- CC; 2- SS   
 trial_order(1:11,2) = [repmat(0,1,1) repmat(2,1,1) repmat(4,1,1) repmat(6,1,1) repmat(8,1,1) repmat(10,1,1) repmat(12,1,1) repmat(14,1,1) repmat(16,1,1) repmat(18,1,1) repmat(20,1,1)]';
