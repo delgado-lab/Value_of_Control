@@ -21,7 +21,7 @@ ntrials = 22;
 
 ITI_ISI_list(:,1) = [repmat(1,1,11) repmat(2,1,5) repmat(3,1,3) repmat(4,1,2) repmat(6,1,1)]';  % ITI
 ITI_ISI_list(:,2) = [repmat(1,1,11) repmat(2,1,5) repmat(3,1,3) repmat(4,1,2) repmat(6,1,1)]';  % ISI
-ITI__ISI_list = Shuffle(ITI_ISI_list,2); 
+ITI_ISI_list = Shuffle(ITI_ISI_list,2); 
 
 responsewindow = 4;
 guess_responsewindow = 2;
