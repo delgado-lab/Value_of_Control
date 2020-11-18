@@ -491,7 +491,7 @@ try
         data(k).comptracker = comptracker;
         data(k).Card_RT_onset = Card_RT_onset;
         data(k).ishigh = ishigh;
-        data(k).iscomp = isself;
+        data(k).isself = isself;
         data(k).ITI = ITI;
         data(k).ISI = ISI;
         data(k).compselfonset = compself_onset;
